@@ -1,0 +1,5 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDoWhile2\AppDoWhile2\bin\Debug\AppDoWhile2.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDoWhile2\AppDoWhile2\bin\Debug\AppDoWhile2.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDoWhile2\AppDoWhile2\bin\Debug\AppDoWhile2.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDoWhile2\AppDoWhile2\obj\Debug\AppDoWhile2.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDoWhile2\AppDoWhile2\obj\Debug\AppDoWhile2.pdb

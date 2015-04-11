@@ -1,0 +1,6 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor\AppFor\bin\Debug\AppFor.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor\AppFor\bin\Debug\AppFor.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor\AppFor\bin\Debug\AppFor.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor\AppFor\obj\Debug\AppFor.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor\AppFor\obj\Debug\AppFor.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor\AppFor\obj\Debug\AppFor.pdb

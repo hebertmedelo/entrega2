@@ -1,0 +1,5 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor2\AppFor2\bin\Debug\AppFor2.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor2\AppFor2\bin\Debug\AppFor2.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor2\AppFor2\bin\Debug\AppFor2.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor2\AppFor2\obj\Debug\AppFor2.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppFor2\AppFor2\obj\Debug\AppFor2.pdb

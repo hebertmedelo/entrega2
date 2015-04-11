@@ -1,0 +1,6 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppArray\AppArray\bin\Debug\AppArray.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppArray\AppArray\bin\Debug\AppArray.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppArray\AppArray\bin\Debug\AppArray.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppArray\AppArray\obj\Debug\AppArray.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppArray\AppArray\obj\Debug\AppArray.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppArray\AppArray\obj\Debug\AppArray.pdb
